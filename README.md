@@ -1,1 +1,5 @@
-This is Flight booking website made with java,html and css
+This project report presents the development of a flight booking website created with Java, HTML, and CSS, offering users a streamlined experience for searching, comparing, and booking flights. The website includes essential features such as a flight search engine, PNR status check, and comprehensive flight listings, providing users with a one-stop platform for managing travel plans.
+The website’s architecture combines a responsive front-end with HTML and CSS for a user-friendly interface, while Java powers the back end, ensuring efficient data processing and security. Users can search flights by criteria like airline, price, and schedule, and access PNR status to track their reservations. Data security and transaction integrity are maintained through SSL encryption and adherence to industry standards.
+The project also details the performance evaluation through testing, ensuring reliability and scalability. Overall, this flight booking website offers a simple, secure solution for travelers, with future development potential for loyalty programs, additional filtering options, and expanded customer support.
+
+
