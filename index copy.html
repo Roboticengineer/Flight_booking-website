@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Booking</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<<body class="index">>
+    <header>
+        <h1>Flight Booking System</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="flights.html">Flights</a>
+            <a href="check-pnr.html">Check PNR</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Search for Flights</h2>
+        <form id="search-form">
+            <label for="from">From:</label>
+            <input type="text" id="from" name="from" required>
+
+            <label for="to">To:</label>
+            <input type="text" id="to" name="to" required>
+
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date" required>
+
+            <button type="submit">Search Flights</button>
+        </form>
+    </main>
+    <script src="js/script.js"></script>
+</body>
+</html>
